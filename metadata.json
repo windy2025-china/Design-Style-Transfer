@@ -1,0 +1,7 @@
+{
+  "name": "设计风格迁移",
+  "description": "一个利用AI将您的照片瞬间转换成水彩、赛博朋克、动漫、中国风等多种艺术风格的神器。支持一键转换，高清预览。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
